@@ -1,0 +1,15 @@
+[submodule "roman-numeral-converter-fcc"]
+	path = roman-numeral-converter-fcc
+	url = https://github.com/BreakingDev24/roman-numeral-converter-fcc
+[submodule "cash-register-fcc"]
+	path = cash-register-fcc
+	url = https://github.com/BreakingDev24/cash-register-fcc
+[submodule "palindrome-checker-fcc"]
+	path = palindrome-checker-fcc
+	url = https://github.com/BreakingDev24/palindrome-checker-fcc
+[submodule "telephone-number-validator-fcc"]
+	path = telephone-number-validator-fcc
+	url = https://github.com/BreakingDev24/telephone-number-validator-fcc
+[submodule "pokemon-search-app-fcc"]
+	path = pokemon-search-app-fcc
+	url = https://github.com/BreakingDev24/pokemon-search-app-fcc
